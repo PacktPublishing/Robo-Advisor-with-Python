@@ -1,0 +1,25 @@
+AnswerID,AnswerText,AnswerValue,QuestionID
+1,A real gambler,4,1
+2,Willing to take risks after completing adequate research,3,1
+3,Cautious,2,1
+4,A real risk avoider,1,1
+5,"$1,000 in cash",1,2
+6,"A 50% chance at winning $5,000",2,2
+7,"A 25% chance at winning $10,000",3,2
+8,"A 5% chance at winning $100,000",4,2
+9,Loss,1,3
+10,Uncertainty,2,3
+11,Opportunity,3,3
+12,Thrill,4,3
+13,Completely false,1,4
+14,Somewhat true,2,4
+15,Completely true,3,4
+16,Completely false,1,5
+17,Somewhat true,2,5
+18,Completely true,3,5
+19,Completely false,1,6
+20,Somewhat true,2,6
+21,Completely true,3,6
+22,Completely false,1,7
+23,Somewhat true,2,7
+24,Completely true,3,7

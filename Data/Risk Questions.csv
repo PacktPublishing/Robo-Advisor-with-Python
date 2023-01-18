@@ -1,0 +1,8 @@
+QuestionID,QuestionType,QuestionText,QuestionWeight
+1,Tolerance,"In general, how would your best friend describe you as a risk taker?",2
+2,Tolerance,You are on a TV game show and can choose one of the following. Which would you take?,1
+3,Tolerance,When you think of the word risk which of the following words comes to mind first?,1
+4,Capacity,You are able to save money regularly.,1
+5,Capacity,You can pay all your monthly bills on time -- including any credit card or other debt.,1
+6,Capacity,"If you lose money investing today, your current lifestyle would not be impacted.",1
+7,Capacity,You do not need to draw down more than 5% of your investment portfolio for any major financial goal in the next five years.,1
