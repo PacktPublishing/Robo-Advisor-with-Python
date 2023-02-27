@@ -1,8 +1,8 @@
 # Robo-Advisor with Python	
 
-<a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="Robo-Advisor with Python" height="256px" align="right"></a>
+<a href="https://www.amazon.in/Robo-Advisor-Python-Hands-Operate-Robo-advisor-ebook/dp/B0BNNTXR9P/ref=sr_1_1?crid=ZS2Z48YPUPH2&keywords=robo+advisor+with+python&qid=1677481036&sprefix=robo+advisor+with+python%2Caps%2C217&sr=8-1"><img src="https://m.media-amazon.com/images/I/31r0fxiH71L.jpg" alt="Robo-Advisor with Python" height="256px" align="right"></a>
 
-This is the code repository for [Robo-Advisor with Python](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Robo-Advisor with Python](https://www.amazon.in/Robo-Advisor-Python-Hands-Operate-Robo-advisor-ebook/dp/B0BNNTXR9P/ref=sr_1_1?crid=ZS2Z48YPUPH2&keywords=robo+advisor+with+python&qid=1677481036&sprefix=robo+advisor+with+python%2Caps%2C217&sr=8-1), published by Packt.
 
 **A hands-on guide to building and operating your own Robo-advisor**
 
