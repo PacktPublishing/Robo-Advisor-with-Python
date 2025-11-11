@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
+
 # Robo-Advisor with Python	
 
 <a href="https://www.amazon.in/Robo-Advisor-Python-Hands-Operate-Robo-advisor-ebook/dp/B0BNNTXR9P/ref=sr_1_1?crid=ZS2Z48YPUPH2&keywords=robo+advisor+with+python&qid=1677481036&sprefix=robo+advisor+with+python%2Caps%2C217&sr=8-1"><img src="https://m.media-amazon.com/images/I/31r0fxiH71L.jpg" alt="Robo-Advisor with Python" height="256px" align="right"></a>
